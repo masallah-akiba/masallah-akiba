@@ -2,7 +2,7 @@
 
 # Maşallah Akıba
 
-**Molecular Biology & Genetics · Bioinformatics · Medical AI**
+**Molecular Biology & Genetics · Bioinformatics**
 
 BSc @ Acıbadem University, Istanbul &nbsp;·&nbsp; Operations @ [Vivax Technology Corporation](https://getvivax.com/)
 
