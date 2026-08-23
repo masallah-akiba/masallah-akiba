@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maşallah Akıba
+# Maşallah Akiba
 
 **Molecular Biology & Genetics · Bioinformatics**
 
