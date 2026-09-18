@@ -14,7 +14,7 @@ BSc @ Acıbadem University, Istanbul &nbsp;·&nbsp; Operations @ [Vivax Technolo
 
 | Lab | Institution | Role |
 |-----|-------------|------|
-| [Ekiz Lab](https://www.atakanekiz.com/lab.html) | İzmir Institute of Technology | Research intern (2026) — tumor immunology *(ongoing)* |
+| [Ekiz Lab](https://www.atakanekiz.com/lab.html) | İzmir Institute of Technology | Research intern (2026) — tumor immunology |
 | [Adebali Lab](https://adebalilab.org/) | Sabancı University | Research intern (2026) — computational biology & DNA repair |
 | [Sezerman Lab](http://www.sezermanlab.org/) | Acıbadem University |Research intern (2025) — Bioinformatics training |
 
@@ -27,7 +27,7 @@ BSc @ Acıbadem University, Istanbul &nbsp;·&nbsp; Operations @ [Vivax Technolo
 
 **[Vivax Technology Corporation](https://getvivax.com/)** &nbsp;—&nbsp; Operations Coordinator
 
-Building Clinical World Models and healthcare LLMs for the Turkish medical ecosystem.
+Building Clinical World Models for healthcare.
 Partners include TÜBİTAK, NVIDIA Inception, İTÜ Çekirdek, and Acıbadem Health Group.
 
 ---
